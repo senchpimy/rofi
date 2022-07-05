@@ -1,0 +1,12 @@
+/** Basic config file **/
+
+configuration {
+  show-icons:         true;
+  icon-theme:         "Papirus";
+element-icon {
+    background-color: @background-alt;
+}
+element-text {
+    background-color:@background-alt;
+}
+}
